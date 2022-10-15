@@ -1,0 +1,10 @@
+pattern
+cohesion high
+problem
+assign
+solution;name
+related,responsibility
+focused
+element
+professor
+classes, class

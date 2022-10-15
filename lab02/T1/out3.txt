@@ -1,0 +1,38 @@
+monday                  6    1, 4    DownRight
+tuesday                 7    2, 6    DownRight
+wednesday               9    3,17    Down    
+thursday                8    6, 7    Down    
+friday                  6    2,11    Right   
+saturday                8   19,11    upRight 
+sunday                  6   14, 4    Down    
+january                 7    1, 9    DownRight
+february                8    9,10    upRight 
+march                   5   10, 8    DownRight
+april                   5   10, 1    Down    
+may                     3   12,13    DownRight
+june                    4    7, 3    Right   
+july                    4   10, 4    DownRight
+august                  6   18,13    Right   
+september               9    9, 1    DownRight
+october                 7    3, 9    DownRight
+november                8   16, 9    upRight 
+
+| . . . M . . . . J . . . . . . . . . .|
+| . . . . O T . . . A F R I D A Y Y . .|
+| . . . . . N U . O . N . . . . R W . .|
+| . . . . . . D E . C . U . . A . E . .|
+| . . . . . . . A S . T . A U . . D . .|
+| . . . . . . T . Y D . O R R . . N . .|
+| . . J U N E H . . . A B B . Y . E . .|
+| . . . . . . U . . . E Y . E . . S . .|
+| S . . . . . R . . F . . . . R R D . .|
+| A E . J . . S M . . . . . . E . A . .|
+| P . P . U . D . A . . . . B . . Y . .|
+| R . . T . L A . . R . . M . . . . Y .|
+| I . . . E . Y . . . C E . A . . A . .|
+| L . . S . M . . . . V H . . Y D . . .|
+| . . . U . . B . . O . . . . R . . . .|
+| . . . N . . . E N . . . . U . . . . .|
+| . . . D . . . . R . . . T . . . . . .|
+| . . . A . . . . . . . A A U G U S T .|
+| . . . Y . . . . . . S . . . . . . . .|

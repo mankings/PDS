@@ -1,0 +1,98 @@
+40x40 grid
+
+RESULTS:
+random                    6      16,38   DOWNLEFT
+words                     5        6,7     UPLEFT
+animal                    6       2,17  DOWNRIGHT
+ipsum                     5       13,3    UPRIGHT
+computer                  8      16,27         UP
+lorem                     5        1,9      RIGHT
+design                    6      18,10  DOWNRIGHT
+software                  8       8,32  DOWNRIGHT
+christ                    6       28,7      RIGHT
+ball                      4        1,7   DOWNLEFT
+banana                    6      15,20         UP
+santo                     5      16,15    UPRIGHT
+rat                       3       4,17   DOWNLEFT
+ideia                     5      24,31     UPLEFT
+novembro                  8       11,6  DOWNRIGHT
+support                   7      14,31      RIGHT
+dia                       3      21,30         UP
+coupling                  8      27,33       LEFT
+viseu                     5      28,22     UPLEFT
+date                      4       32,4       LEFT
+comando                   7       19,7   DOWNLEFT
+cruise                    6      10,24     UPLEFT
+portugal                  8      35,38     UPLEFT
+jumento                   7       7,28      RIGHT
+moon                      4      15,19   DOWNLEFT
+telefone                  8      32,34   DOWNLEFT
+universidade             12      19,27  DOWNRIGHT
+chocolate                 9      26,24       DOWN
+soupa                     5      36,19    UPRIGHT
+javardo                   7       39,8       LEFT
+baunilha                  8       32,5  DOWNRIGHT
+letra                     5       5,34       LEFT
+curso                     5      22,22      RIGHT
+gelado                    6      40,26         UP
+sovaco                    6      15,31       DOWN
+silva                     5      24,28       LEFT
+continuando              11      18,11   DOWNLEFT
+search                    6       6,20     UPLEFT
+engenharia               10      13,11         UP
+covid                     5      36,20   DOWNLEFT
+panados                   7      29,17       DOWN
+benfica                   7      16,22  DOWNRIGHT
+informatica              11      17,16       DOWN
+futebol                   7      21,17      RIGHT
+gigante                   7       20,7     UPLEFT
+frase                     5      26,36      RIGHT
+girafa                    6       34,9      RIGHT
+pudim                     5      18,14     UPLEFT
+texto                     5       37,5      RIGHT
+intellij                  8      21,13   DOWNLEFT
+dinheiro                  8      21,30     UPLEFT
+papel                     5        9,1         UP
+filmes                    6      25,22      RIGHT
+youtube                   7       1,31      RIGHT
+
+.  .  .  .  .  .  B  .  L  O  R  E  M  .  H  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  Y  O  U  T  U  B  E  .  .  .  
+.  .  S  .  .  A  .  .  .  .  .  .  .  .  .  C  A  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  D  L  .  .  .  .  .  .  .  .  .  .  .  R  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  L  R  .  .  .  .  .  A  .  .  .  .  .  R  A  I  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+L  .  .  .  .  O  .  .  .  .  I  .  .  .  .  A  .  .  E  M  .  .  .  .  .  .  .  .  .  A  R  T  E  L  .  .  .  .  .  .  
+E  .  .  .  .  .  W  .  .  .  R  .  .  .  T  .  .  .  .  S  A  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+P  .  .  .  .  .  .  .  .  .  A  .  .  .  .  .  .  .  .  .  I  L  .  .  .  .  .  J  U  M  E  N  T  O  .  .  .  .  .  .  
+A  .  .  .  .  .  .  .  .  .  H  .  .  .  .  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  
+P  .  .  .  .  .  M  .  .  .  N  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  R  .  .  .  .  .  O  .  .  .  .  .  .  .  
+.  .  .  .  .  U  .  .  .  .  E  .  .  .  .  .  .  .  .  A  .  .  .  C  .  .  E  .  .  .  .  .  .  F  .  .  .  .  .  .  
+.  .  .  .  S  N  .  .  .  .  G  .  .  .  .  .  .  .  .  N  .  .  .  .  .  .  T  .  .  .  .  .  .  .  T  .  .  .  .  .  
+.  .  .  P  .  .  O  .  .  .  N  .  .  .  .  .  .  .  O  A  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  W  .  .  .  .  
+.  .  I  .  .  .  .  V  .  .  E  .  .  .  .  .  .  T  .  N  .  .  .  .  .  .  P  .  .  .  .  .  .  .  .  .  A  .  .  .  
+E  .  .  .  .  .  .  .  E  M  .  .  .  .  .  .  N  .  .  A  .  .  O  .  .  .  M  .  .  .  S  U  P  P  O  R  T  R  .  .  
+.  T  .  .  .  .  .  .  .  M  I  .  .  .  .  A  .  .  M  B  .  .  .  R  .  .  O  .  .  .  S  .  .  .  .  .  .  .  E  .  
+.  .  N  .  .  .  .  .  .  .  B  D  .  .  S  .  .  O  .  .  .  B  .  .  I  .  C  .  .  .  O  .  .  .  .  .  .  R  .  .  
+.  .  .  A  .  .  .  .  .  .  .  R  U  .  .  I  O  .  .  .  .  .  E  .  .  E  .  .  .  .  V  .  .  .  .  .  A  .  .  .  
+.  .  .  .  G  .  .  .  .  D  C  .  O  P  .  N  .  .  .  .  .  .  .  N  .  .  H  .  .  .  A  .  .  .  .  N  .  .  .  .  
+.  .  .  .  .  I  C  .  .  O  E  .  .  .  .  F  .  .  .  .  .  .  .  .  F  .  U  N  .  A  C  .  .  .  D  .  .  .  .  .  
+.  .  .  .  .  O  G  .  N  .  .  S  .  .  .  O  .  .  .  .  .  .  .  .  .  I  A  N  I  I  O  .  .  O  .  .  .  .  .  .  
+.  .  .  .  M  .  .  T  .  .  .  .  I  .  .  R  F  U  T  E  B  O  L  .  .  .  C  I  I  D  .  .  M  .  .  .  .  .  .  .  
+.  .  .  A  .  .  I  .  .  .  .  N  .  G  .  M  .  .  .  .  .  C  U  R  S  O  .  A  E  V  .  .  .  .  .  .  .  .  .  .  
+.  .  N  .  .  N  .  .  .  .  T  .  .  .  N  A  .  .  .  .  .  .  .  .  .  .  .  .  .  D  E  .  .  .  .  .  .  .  .  .  
+.  D  .  .  U  .  .  .  .  E  .  .  .  .  .  T  .  U  .  .  .  .  .  A  V  L  I  S  .  .  I  R  .  .  .  .  .  .  .  .  
+O  .  .  A  .  .  .  .  L  .  .  .  .  .  .  I  .  .  E  .  .  F  I  L  M  E  S  .  .  .  .  .  S  .  .  .  .  .  .  .  
+.  .  N  .  .  .  .  L  .  .  .  .  .  .  .  C  .  .  .  S  .  .  .  C  .  .  .  .  .  .  .  .  .  I  .  F  R  A  S  E  
+.  D  .  .  .  .  I  .  .  .  .  .  .  .  .  A  .  .  .  .  I  .  .  H  .  G  N  I  L  P  U  O  C  .  D  .  .  .  .  .  
+O  .  .  .  .  J  C  H  R  I  S  T  .  .  .  .  .  .  .  .  .  V  .  O  .  .  .  .  .  .  L  .  .  .  .  A  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  P  .  .  .  .  .  .  C  .  .  .  .  .  .  .  A  .  .  .  .  D  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  A  .  .  .  .  .  .  O  .  .  .  .  .  .  .  .  G  .  .  .  .  E  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  .  L  .  .  .  .  .  .  .  .  .  U  .  .  .  .  .  .  
+E  T  A  D  B  .  .  .  .  .  .  .  .  .  .  .  A  .  .  .  .  .  A  A  .  .  .  .  .  .  .  .  .  T  T  .  .  .  .  .  
+.  .  .  .  .  A  .  .  .  .  .  .  .  .  .  .  D  .  .  .  .  P  .  T  .  .  .  .  .  .  .  .  E  .  .  R  .  .  .  .  
+.  .  .  .  .  .  U  .  G  I  R  A  F  A  .  .  O  .  .  .  U  .  .  E  .  .  .  .  .  .  .  L  .  .  .  .  O  .  .  .  
+.  .  .  .  .  .  .  N  .  .  .  .  .  .  .  .  S  .  .  O  .  .  .  .  .  O  .  .  .  .  E  .  .  .  .  .  .  P  .  .  
+.  .  .  .  .  .  .  .  I  .  .  .  .  .  .  .  .  .  S  C  .  .  .  .  .  D  .  .  .  F  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  T  E  X  T  O  L  .  .  .  .  .  .  .  .  O  .  .  .  .  .  .  A  .  .  O  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  H  .  .  .  .  .  .  V  .  .  .  .  .  .  .  L  .  N  .  .  .  .  .  .  .  .  .  .  .  .  
+.  O  D  R  A  V  A  J  .  .  .  A  .  .  .  .  I  .  .  .  .  .  .  .  .  E  E  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  D  .  .  .  .  .  .  .  .  .  G  .  .  .  .  .  .  .  .  .  .  .  .  .  .  

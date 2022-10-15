@@ -1,0 +1,27 @@
+12x12 grid
+
+RESULTS:
+daniel                    6        1,4       DOWN
+palavra                   7        3,8   DOWNLEFT
+guiao                     5        6,8   DOWNLEFT
+github                    6        3,2       DOWN
+aveiro                    6       11,3      RIGHT
+info                      4        8,4   DOWNLEFT
+terminal                  8       2,12       DOWN
+testes                    6        6,7    UPRIGHT
+exercicio                 9       12,2      RIGHT
+codigo                    6        7,6  DOWNRIGHT
+programa                  8        1,5       DOWN
+
+.  .  .  D  P  .  .  .  .  .  .  S  
+.  .  .  A  R  .  .  .  .  .  E  T  
+.  G  .  N  O  .  .  P  .  T  .  E  
+.  I  .  I  G  .  A  .  S  .  .  R  
+.  T  .  E  R  L  .  E  .  .  .  M  
+.  H  .  L  A  .  T  G  .  .  .  I  
+.  U  .  V  M  C  U  .  .  .  .  N  
+.  B  R  I  A  I  O  .  .  .  .  A  
+.  A  N  .  A  .  .  D  .  .  .  L  
+.  F  .  O  .  .  .  .  I  .  .  .  
+O  .  A  V  E  I  R  O  .  G  .  .  
+.  E  X  E  R  C  I  C  I  O  O  .  

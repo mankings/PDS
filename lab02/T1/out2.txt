@@ -1,0 +1,20 @@
+suicidio                8    5, 4    DownRight
+asistido                8    6, 4    DownRight
+eutanasia               9    5, 3    Down    
+vida                    4    2, 3    Right   
+medico                  6    1, 1    Right   
+pacientes               9    5, 5    DownRight
+
+| M E D I C O . . . . . . .|
+| . . V I D A . . . . . . .|
+| . . . . . . . . . . . . .|
+| . . . . . . . . . . . . .|
+| . . E S P . . . . . . . .|
+| . . U A U A . . . . . . .|
+| . . T . S I C . . . . . .|
+| . . A . . I C I . . . . .|
+| . . N . . . S I E . . . .|
+| . . A . . . . T D N . . .|
+| . . S . . . . . I I T . .|
+| . . I . . . . . . D O E .|
+| . . A . . . . . . . O . S|

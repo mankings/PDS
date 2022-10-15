@@ -1,0 +1,38 @@
+20x20 grid
+
+RESULTS: 
+pattern                   7       7,14         UP
+cohesion                  8      11,11    UPRIGHT
+high                      4       10,8    UPRIGHT
+problem                   7      12,11    UPRIGHT
+assign                    6       1,13   DOWNLEFT
+solution                  8      19,11      RIGHT
+name                      4       14,4    UPRIGHT
+related                   7        9,2    UPRIGHT
+responsibility           14       4,20   DOWNLEFT
+focused                   7      11,19       DOWN
+element                   7      18,13         UP
+professor                 9      16,17         UP
+classes                   7       11,3       DOWN
+class                     5       19,7     UPLEFT
+
+.  .  .  .  .  .  .  .  .  .  .  .  A  N  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  S  .  R  .  .  .  .  .  .  
+.  .  .  .  .  .  .  D  .  .  S  .  .  E  .  .  .  .  .  .  
+.  .  .  .  .  .  E  .  .  I  .  .  .  T  .  .  .  N  .  R  
+.  .  .  .  .  T  .  .  G  .  .  .  .  T  .  .  O  .  E  .  
+.  .  .  .  A  .  .  N  .  .  .  .  .  A  .  I  M  S  .  .  
+.  .  .  L  .  .  .  .  .  .  H  .  .  P  S  E  P  .  .  .  
+.  .  E  .  .  .  .  .  .  G  .  .  .  E  L  O  R  .  .  .  
+.  R  .  .  .  .  .  .  I  .  .  .  H  B  N  .  O  .  .  .  
+.  .  .  .  .  .  .  H  .  .  .  O  O  S  .  .  S  .  .  .  
+.  .  C  .  .  .  E  .  .  .  C  R  I  .  .  .  S  .  F  .  
+.  .  L  .  .  M  .  .  .  .  P  B  T  .  .  .  E  .  O  .  
+.  .  A  .  A  .  .  .  .  .  I  .  N  .  .  .  F  .  C  .  
+.  .  S  N  .  .  .  .  .  L  .  .  E  .  .  .  O  .  U  .  
+.  .  S  .  .  .  .  .  I  .  .  .  M  .  .  .  R  .  S  .  
+.  .  E  S  .  .  .  T  .  .  .  .  E  .  .  .  P  .  E  .  
+.  .  S  .  A  .  Y  .  .  .  .  .  L  .  .  .  .  .  D  .  
+.  .  .  .  .  L  .  .  .  .  .  .  E  .  .  .  .  .  .  .  
+.  .  .  .  .  .  C  .  .  .  S  O  L  U  T  I  O  N  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  

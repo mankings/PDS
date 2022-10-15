@@ -1,0 +1,18 @@
+java.util.AbstractList
+public abstract class AbstractList<E>
+    - para além dos métodos presentes no template, é ainda definido um método abstrato
+        abstract public E get(int index);
+
+
+java.util.InputStream
+public abstract class InputStream
+    - para além dos métodos presentes no template, é ainda definido um método abstrato
+        public abstract int read() throws IOException;
+
+
+java.io.Writer
+public abstract class Writer implements Appendable, Closeable, Flushable
+    - para além dos métodos presentes no template, é ainda definido três métodos abstratos
+        abstract public void close() throws IOException;
+        abstract public void flush() throws IOException;
+        abstract public void write(char cbuf[], int off, int len) throws IOException;

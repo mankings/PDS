@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa6c4f7-24f9-4e7e-9b1e-e70c9c920e2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ex1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab01/Ex1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab01/Ex1_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab01/Ex1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab01/Ex1_2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26O9HHAnkIgcJc7vfGYpZ4mn26C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex1_2">
+    <configuration name="Ex1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1_1" />
+      <module name="lab01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1_2" />
+      <module name="lab01" />
+      <option name="PROGRAM_PARAMETERS" value="-i gen.txt -s 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex1_1" />
+      <item itemvalue="Application.Ex1_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex1_2" />
+        <item itemvalue="Application.Ex1_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa6c4f7-24f9-4e7e-9b1e-e70c9c920e2b" name="Changes" comment="" />
+      <created>1647283677194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647283677194</updated>
+    </task>
+    <servers />
+  </component>
+</project>
